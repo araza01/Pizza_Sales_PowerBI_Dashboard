@@ -25,7 +25,7 @@ This project helps visualize key insights into customer behavior, sales trends, 
 
 ### SQL Queries & Documentation
 - :page_with_curl: [Pizza_Sales_SQL_Queries](https://github.com/araza01/Pizza_Sales_PowerBI_Dashboard/blob/master/Pizza_Sales_Queries.sql) <br>
-- :page_facing_up: Download [Documentation](https://github.com/araza01/Pizza_Sales_PowerBI_Dashboard/blob/master/Pizza_Sales_Queries_Doc.pdf) file.
+- :page_facing_up: View [Documentation](https://github.com/araza01/Pizza_Sales_PowerBI_Dashboard/blob/master/Pizza_Sales_Queries_Doc.pdf) file.
 
 ### Tech Stack
 - :memo: SQL Server - For writing SQL queries and to connect with Power BI for the ETL process.

@@ -7,14 +7,14 @@ Pizza Sales Analytics Dashboard
 An interactive Power BI Dashboard built to analyze a year’s worth of pizza sales data.
 This project helps visualize key insights into customer behavior, sales trends, and product performance — enabling data-driven decisions for business growth.
 
-### KPIs Requirement :scroll:
+### KPIs :scroll:
 1. Total Revenue: The sum of the total price of all pizza orders.
 2. Average Order Value: The average amount spent per order.
 3. Total Pizzas Sold: The sum of the quantities of all pizzas sold.
 4. Total Orders: The total number of orders placed.
 5. Average Pizzas Per Order: The average number of pizzas sold per order.
 
-### Chart's Requirement :bar_chart:
+### Charts :bar_chart:
 1. Daily Trend for Total Orders
 2. Monthly Trend for Total Orders
 3. Percentage of Sales by Pizza Category
